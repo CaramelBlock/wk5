@@ -66,6 +66,7 @@ dl{
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 15px;
   padding: 15px;
+  justify-content: center;
 
 }
 div:nth-child(even) > img{ 
