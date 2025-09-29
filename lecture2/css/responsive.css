@@ -47,7 +47,7 @@
   }
   .grid > div:nth-child(3n){
     grid-column: inherit;
-    width: inherit
+    width: inherit;
   } 
   .gallery{
     justify-content: space-between;
