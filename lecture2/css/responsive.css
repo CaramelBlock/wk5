@@ -51,6 +51,8 @@
   } 
   .gallery{
     justify-content: space-between;
+  }
+  .gallery img{
     flex: 1 1 200px; 
   }
   .grid > div:hover{
